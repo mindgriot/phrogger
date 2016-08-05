@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    font-family: chewy, sans-serif;
+}
+h1 {
+    font-family: 'Bungee Shade', cursive;
+}
+#scoretext {
+    font-family: 'Bungee Shade', cursive;
+    position: absolute;
+    top: 0;
+    margin-top: 100px;
+}
+#deathstext {
+    //font-family: chewy, sans-serif;
+    font-family: 'Bungee Shade', cursive;
+    position: absolute;
+    top: 0;
+    margin-top: 140px;
+    border: none;
+}
+#score, #deaths {
+    border: none;
+}
